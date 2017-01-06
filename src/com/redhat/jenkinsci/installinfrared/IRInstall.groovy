@@ -1,4 +1,4 @@
-package com.redhat.jenkinsci.install.installinfrared;
+package com.redhat.jenkinsci.installinfrared;
 
 def InstallInfraRed() {
     git url: "https://github.com/rhosqeauto/InfraRed.git"
